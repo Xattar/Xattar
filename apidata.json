@@ -329,7 +329,7 @@
                 "identifier": "200"
             },
             {
-                "name": "youla",
+                "name": "پاراستنی پارتی",
                 "method": "POST",
                 "url": "https://youla.ru/web-api/auth/request_code",
                 "data": {
